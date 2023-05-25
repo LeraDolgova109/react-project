@@ -1,1 +1,1 @@
-# react-project
+# Project for Campus Courses
